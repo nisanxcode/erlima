@@ -1,0 +1,62 @@
+{  
+    "More":
+  [
+  {
+    "id":1,
+    "judul":"Piano Tiles Anime Music Offline 2021",
+    "image":"https://play-lh.googleusercontent.com/4jcyuYyyhVxCEzJNQo295zDN5rDQq1lXIzSa9qnQDWPd71Zu7ZgCjv51PNta3dFHfqc=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.fargus.pianotiles.anime.music.offline"
+  },
+  {
+    "id":2,
+    "judul":"Magic Tiles 7 2020",
+    "image":"https://play-lh.googleusercontent.com/UtBa1X6l-OplUjQKDchCHJk5jg_OlP5JiM2vBBmu_B7OnCmVkGxo7Eam4h7EDnRNkjI=s180-rw",
+     "link":"https://play.google.com/store/apps/details?id=com.rapstech.magic.tiles.piano"
+  },
+  {
+    "id":3,
+    "judul":"Anime Piano Demon Slayer Tanjiro Tiles",
+    "image":"https://play-lh.googleusercontent.com/B83XJjet4Vmeg3bydZeOimKcW4ltsp7NuuVxhqpBGdHugwHnrd5zQGHYvzX9pl4xWuRP=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.perzona.pianoanime.demonslayer.tanjirotiles"
+  },
+  {
+    "id":4,
+    "judul":"Piano Tiles Lagu Indonesia",
+    "image":"https://play-lh.googleusercontent.com/d7VBgYz_OF-JKaBjQedE3f1sICc0zfnnRBiC667ebwlEwDB8NyO2iroHOkDCxCSN-g=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.perzona.pianotiles.laguindonesia"
+  }
+],
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "url_webview": "file:///android_asset/soalsdkelas4/SOALPILIHAN.html",
+
+        "appid": "pub-8074230319419198",
+        "admobappid": "ca-app-pub-8074230319419198~3870167875",
+        "interid": "ca-app-pub-8074230319419198/4554857297",
+        "bannerid":"",
+        "openid":"",
+    
+        "pengaturan_iklan":"1",
+       
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner":"",
+
+        "interval":5,
+        "startappid":"123454689",
+
+        
+        "hpk_admob1":"PUBG",
+        "hpk_admob2":"Free Fire",
+        "hpk_admob3":"free diamonds mobile legends",
+        "hpk_admob4":"free skin pubg",
+        "hpk_admob5":"free skin Among"
+  
+
+        }
+    ]
+}
